@@ -14,7 +14,7 @@ Start a command shell session. You will need to run the remaining commands in th
 
 To install Terraform, unzip the binary file and move it to a directory included in your system's `PATH`. This example works on both Linux and Mac operating systems.
 
-[![asciicast](https://asciinema.org/a/Ra8UnDdQhCbFYjkzkcb4ikrrG.svg)](https://asciinema.org/a/Ra8UnDdQhCbFYjkzkcb4ikrrG?t=5)
+<a href="https://asciinema.org/a/Ra8UnDdQhCbFYjkzkcb4ikrrG?t=5" target="_blank"><img src="https://asciinema.org/a/Ra8UnDdQhCbFYjkzkcb4ikrrG.svg" /></a>
 
 ```
 # Change directory and unzip the Terraform binary
